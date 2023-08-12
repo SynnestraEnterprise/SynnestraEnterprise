@@ -1,0 +1,2 @@
+<br>
+<b>Warning</b>:  Undefined variable $show_mark in <b>/Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/qi-addons-for-elementor/inc/plugins/woocommerce/shortcodes/product-list/templates/post-info/mark.php</b> on line <b>3</b><br>

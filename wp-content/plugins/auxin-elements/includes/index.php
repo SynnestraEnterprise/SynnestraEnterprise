@@ -1,0 +1,6 @@
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function add_filter() in /Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/auxin-elements/includes/general-functions.php:1925
+Stack trace:
+#0 /Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/auxin-elements/includes/index.php(5): include_once()
+#1 {main}
+  thrown in <b>/Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/auxin-elements/includes/general-functions.php</b> on line <b>1925</b><br>

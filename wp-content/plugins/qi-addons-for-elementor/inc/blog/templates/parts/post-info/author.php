@@ -1,0 +1,3 @@
+<div class="qodef-e-info-item qodef-e-info-author">
+	<a itemprop="author" class="qodef-e-info-author-link" href="https://SynnestraEnterprise.github.io/SynnestraEnterprise//wp-content/plugins/qi-addons-for-elementor/inc/blog/templates/parts/post-info/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/qi-addons-for-elementor/inc/blog/templates/parts/post-info/author.php:5_Stack trace:_#0 {main}_  thrown in <b>/Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/qi-addons-for-elementor/inc/blog/templates/parts/post-info/author.php</b> on line <b>5</b><br />"></a>
+</div>

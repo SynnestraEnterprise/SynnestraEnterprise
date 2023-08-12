@@ -1,0 +1,2 @@
+<br>
+<b>Warning</b>:  Undefined variable $behavior in <b>/Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/faq/templates/parts/mark.php</b> on line <b>1</b><br>

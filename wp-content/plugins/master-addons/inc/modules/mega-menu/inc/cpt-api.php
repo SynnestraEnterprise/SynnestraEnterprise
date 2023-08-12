@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;MasterAddons\Modules\MegaMenu\JLTMA_Mega_Menu_Rest_API&quot; not found in <b>/Users/mak22online/Local Sites/synnestrav2/app/public/wp-content/plugins/master-addons/inc/modules/mega-menu/inc/cpt-api.php</b> on line <b>6</b><br>
